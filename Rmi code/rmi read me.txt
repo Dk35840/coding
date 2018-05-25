@@ -1,0 +1,14 @@
+// cepta 
+
+
+url format for rom:
+
+rmi://ip-address-of-server:port-no//folder-name
+
+rmiregistry [tool] part of jdk it wiil assign a port number for rmi -application
+
+		rmiregistry[[port]
+		
+		0 to 65535 
+		0 to 1023 [reserverd]
+		so we choose :>10 k

@@ -1,0 +1,24 @@
+						import 
+
+			public class MyServer
+
+            {
+
+	               pulic static void main(String[] args){
+				   
+				   try{
+				   
+				   String url="rmi://12"}
+				   
+				   }
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	}
