@@ -5,8 +5,8 @@ public class StockSpan {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
-		// just testing purposese  
+		
+		System.out.println("by def we created");
 	}
 
 }
